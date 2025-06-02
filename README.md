@@ -1,7 +1,7 @@
 # If Eleanor Rigby Had Met ChatGPT
 ### A Study on Loneliness in a Post-LLMWorld
 
-Repository for the paper ["If Eleanor Rigby Had Met ChatGPT: A Study on Loneliness in a Post-LLM World"](https://arxiv.org/abs/2412.01617), by Adrian de Wynter.
+Repository for the paper ["If Eleanor Rigby Had Met ChatGPT: A Study on Loneliness in a Post-LLM World"](https://arxiv.org/abs/2412.01617), by Adrian de Wynter; accepted to ACL 2025 Main.
 
 Loneliness is a serious problem. It has been called an epidemic by the US Surgeon General, and the WHO considers it a public health concern. Regardless of what you call it, it is a serious problem:
 - It could lead to very serious mental and physical health problems, like cardiovascular disease, depression, and an overall mortality rate.
